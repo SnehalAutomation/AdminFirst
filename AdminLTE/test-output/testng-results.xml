@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7794" started-at="2019-05-04T18:20:46Z" finished-at="2019-05-04T18:20:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7794" started-at="2019-05-04T18:20:46Z" finished-at="2019-05-04T18:20:54Z">
+      <class name="com.admin.AdminTestCases">
+        <test-method status="PASS" signature="browser_setUp()[pri:0, instance:com.admin.AdminTestCases@163370c2]" name="browser_setUp" is-config="true" duration-ms="11231" started-at="2019-05-04T18:20:35Z" finished-at="2019-05-04T18:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser_setUp -->
+        <test-method status="PASS" signature="verify_URL()[pri:1, instance:com.admin.AdminTestCases@163370c2]" name="verify_URL" duration-ms="91" started-at="2019-05-04T18:20:47Z" finished-at="2019-05-04T18:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_URL -->
+        <test-method status="PASS" signature="verify_TitleApplication()[pri:2, instance:com.admin.AdminTestCases@163370c2]" name="verify_TitleApplication" duration-ms="17" started-at="2019-05-04T18:20:47Z" finished-at="2019-05-04T18:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_TitleApplication -->
+        <test-method status="PASS" signature="login_session()[pri:4, instance:com.admin.AdminTestCases@163370c2]" name="login_session" duration-ms="759" started-at="2019-05-04T18:20:47Z" finished-at="2019-05-04T18:20:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login_session -->
+        <test-method status="PASS" signature="Check_PlaceHolder_Username()[pri:5, instance:com.admin.AdminTestCases@163370c2]" name="Check_PlaceHolder_Username" duration-ms="113" started-at="2019-05-04T18:20:47Z" finished-at="2019-05-04T18:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_PlaceHolder_Username -->
+        <test-method status="PASS" signature="Check_Placeholder_Password()[pri:6, instance:com.admin.AdminTestCases@163370c2]" name="Check_Placeholder_Password" duration-ms="34" started-at="2019-05-04T18:20:48Z" finished-at="2019-05-04T18:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Placeholder_Password -->
+        <test-method status="PASS" signature="Check_Button_color()[pri:7, instance:com.admin.AdminTestCases@163370c2]" name="Check_Button_color" duration-ms="203" started-at="2019-05-04T18:20:48Z" finished-at="2019-05-04T18:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Check_Button_color -->
+        <test-method status="PASS" signature="check_Links()[pri:8, instance:com.admin.AdminTestCases@163370c2]" name="check_Links" duration-ms="68" started-at="2019-05-04T18:20:48Z" finished-at="2019-05-04T18:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- check_Links -->
+        <test-method status="PASS" signature="Blank_UserName_Password()[pri:9, instance:com.admin.AdminTestCases@163370c2]" name="Blank_UserName_Password" duration-ms="558" started-at="2019-05-04T18:20:48Z" finished-at="2019-05-04T18:20:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Blank_UserName_Password -->
+        <test-method status="PASS" signature="valid_username_password()[pri:10, instance:com.admin.AdminTestCases@163370c2]" name="valid_username_password" duration-ms="5834" started-at="2019-05-04T18:20:48Z" finished-at="2019-05-04T18:20:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- valid_username_password -->
+      </class> <!-- com.admin.AdminTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
